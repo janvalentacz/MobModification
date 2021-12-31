@@ -1,0 +1,7 @@
+name: MobModification
+version: '1.0.0'
+main: cz.valentak.mobmodification.Main
+api-version: 1.18
+authors: [Valentak]
+description: Plugin for fun (1.18.1 "MC" version)
+website: https://github.com/janvalentacz & https://gitlab.com/janvalentacz
